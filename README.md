@@ -13,4 +13,12 @@ Make sure you have Python installed on your system.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/mobile-price-classification.git
+   git clone https://github.com/ahmedsamirir/Mobile_price_prediction.git
+
+2. Navigate to the project directory:
+   ```bash
+   cd mobile-price-classification
+
+3. Install project dependencies:
+   ```bash
+   pip install -r requirements.txt
